@@ -2,7 +2,6 @@
 layout: post
 title: "Dimensionality Reduction Using PCA"
 date: 2021-06-26 15:26:45 -0000
-permalink: /_posts/post1/
 categories: python business
 ---
 
