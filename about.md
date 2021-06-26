@@ -1,5 +1,3 @@
-theme: jekyll-theme-minimal
-
 layout: page
 title: "About"
 permalink: /about/
