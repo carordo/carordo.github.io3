@@ -1,6 +1,6 @@
 layout: page
 title: "About"
-permalink:https://carordo.github.io/about.md
+permalink: /about/
 
 # About me
 This is some info about me
