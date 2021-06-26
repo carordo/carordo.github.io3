@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 layout: page
 title: "About"
 permalink: /URL-PATH/
