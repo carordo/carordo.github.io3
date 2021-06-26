@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Dimensionality Reduction Using PCA"
+title: Dimensionality Reduction Using PCA
 date: 2021-06-26 15:26:45 -0000
 categories: python business
 ---
