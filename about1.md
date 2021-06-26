@@ -1,5 +1,5 @@
 theme: jekyll-theme-tactile
-layout: page
+layout: default
 title: "About"
 permalink: /about1/
 
