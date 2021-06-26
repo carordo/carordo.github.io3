@@ -1,3 +1,4 @@
+theme: jekyll-theme-tactile
 layout: page
 title: "About"
 permalink: /about1/
