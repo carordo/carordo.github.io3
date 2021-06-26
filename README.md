@@ -1,5 +1,8 @@
 # Carlos Ordonez Programming Projects
 This site contains a list of some projects
 ## Projects
-This info (about me)[https://carordo.github.io/about.md]
+
 ## Other Projects
+
+## About me
+If you want to learn more about me [click here](https://carordo.github.io/about.md).
