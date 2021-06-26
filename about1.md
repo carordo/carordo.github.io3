@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Contact"
-permalink: /about1/
+permalink: /about_me/
 ---
 
 
