@@ -1,6 +1,3 @@
----
-title: Analytics for non-Analytics People
----
 ## Analytics for non-Analytics People
 Welcome to my data science projects site. My goal is to compile different projects through simple posts mainly forn non-Analytics people intersted in data.
 
